@@ -1,3 +1,6 @@
+def openFile():
+
+
 try:
     f1=open('data.txt', 'r')
     data1=['31', '12', '1900']
